@@ -1,0 +1,12 @@
+name="badri"
+print (name)
+food="khinkali"
+print (food)
+car= "bmw"
+print (car)
+age=(11)
+print (age)
+adress="kutaisi"
+print (adress)
+colour="blue"
+print  (colour)
